@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+	
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+#rosa{
+	background-color: #EE3E64;
+}
+#azul{
+	background-color: #2B7DB9;
+}
+#verde{
+	background-color: #B7D84B;
+}
+#amarillo{
+	background-color: yellow;
+}
+
+
+
+/*
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+	
+}
+.caja{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+#rosa{
+	background-color: #EE3E64;
+	left: 0;
+	top: 0;
+}
+#azul{
+	background-color: #2B7DB9;
+    left: 200px;
+	top: 200px;
+}
+#verde{
+	background-color: #B7D84B;
+	top: 200px;
+	left: 0;
+	
+}
+#amarillo{
+	background-color: yellow;
+	top: 400px;
+	left: 0;
+}
+
+*/
